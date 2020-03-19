@@ -1,11 +1,11 @@
 {
-  "name": "huy/url_helper",
+  "name": "huy_lv/url_helper",
   "description": "the first composer package",
   "type": "php",
   "license": "MIT",
   "authors": [
     {
-      "name": "huy",
+      "name": "huy_lv",
       "email": "levanhuy010993@gmail.com"
     }
   ],
