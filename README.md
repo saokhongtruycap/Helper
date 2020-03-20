@@ -1,4 +1,4 @@
-# Package name: dien/url_helper
+# Package name: huy_lv/url_helper
 
 The url_helper package includes the following features:
 - Valid 1 string is a valid url
@@ -10,7 +10,7 @@ The url_helper package includes the following features:
 1. On the composer.json file of the project you want to include that package, you need to add it to the line
 ``` sh
 "require": {
-"dien/url_helper": "dev-master"
+"huy_lv/url_helper": "dev-master"
 }
 ```
 2. Use the command:
